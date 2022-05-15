@@ -1,0 +1,66 @@
+
+.cm-contentContainer {
+  line-height: 1.6;
+}
+
+p {
+  line-height: 1.9; /* change this value accordingly */
+  display: block;
+  padding-top: 6px;  /* change this value accordingly */
+  padding-bottom: 6px; /* change this value accordingly */
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.cm-s-obsidian .cm-header-1, .HyperMD-header-1,
+.markdown-preview-view h1,
+.markdown-preview-view h1 a {
+  color: #F5867E;
+  font-weight: 500;
+}
+
+.cm-s-obsidian .cm-header-2, .HyperMD-header-2,
+.markdown-preview-view h2, 
+.markdown-preview-view h2 a {
+  color: #8DDBE0;
+  font-weight: 500;
+}
+ 
+.cm-s-obsidian .cm-header-4, .HyperMD-header-4,
+.markdown-preview-view h4,
+.markdown-preview-view h4 a {
+  color: #B497D6;
+  font-weight: 500;
+}
+
+.cm-s-obsidian .cm-header-5, .HyperMD-header-5,
+.markdown-preview-view h5,
+.markdown-preview-view h5 a {
+  color: #EFCB68;
+  font-weight: 500;
+}
+
+img {
+  background-color: #f0f0f0;
+}
+
+iframe {
+  width: 100%;
+  height: 1000px;
+  border: none;
+}
+
+.popover {
+  width: 1100px !important;
+  min-height: 600px !important;
+}
+
+.popover div {
+  height: 100% !important;
+}
+
+.popover iframe {
+  height: 560px !important;
+}

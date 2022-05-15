@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 25,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "textFontFamily": "Noto Sans JP,Yu Gothic",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "line_height"
+  ],
+  "interfaceFontFamily": "Noto Sans JP,Yu Gothic"
+}

@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "0. Assets"
+}

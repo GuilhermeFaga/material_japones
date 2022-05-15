@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "15c02f7fab3c909e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a944d62b3b93a954",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b4c6341cfa28060",
+    "type": "split",
+    "children": [
+      {
+        "id": "aebfbd33f451c081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7db3f0e08a006f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04181766a713d97c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "8b457c2d813455f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a83e0887f55f18",
+        "type": "tabs",
+        "dimension": 30.341246290801188,
+        "children": [
+          {
+            "id": "036329c2c85863d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efd3fb5115d63674",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e0e4493b13a36c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb8c478b756a63aa",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "987bea0661228f49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d194e6bafe31090b",
+        "type": "tabs",
+        "dimension": 69.65875370919882,
+        "children": [
+          {
+            "id": "dcb9b14e008f508f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-jisho",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "active": "a944d62b3b93a954",
+  "lastOpenFiles": [
+    "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
+    "ひらがな／カタカナ.md",
+    "2. Grammar/日付（ひづけ）.md",
+    "2. Grammar/数字（すうじ）.md",
+    "2. Grammar/助詞（じょし）.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-14.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-12.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-11.md",
+    "0. Dictionary/文法.md",
+    "0. Dictionary/次.md"
+  ]
+}
