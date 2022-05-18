@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Untitled.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -62,7 +62,7 @@
       {
         "id": "d5a83e0887f55f18",
         "type": "tabs",
-        "dimension": 30.341246290801188,
+        "dimension": 32.79352226720648,
         "children": [
           {
             "id": "036329c2c85863d2",
@@ -123,7 +123,7 @@
       {
         "id": "d194e6bafe31090b",
         "type": "tabs",
-        "dimension": 69.65875370919882,
+        "dimension": 67.20647773279353,
         "children": [
           {
             "id": "dcb9b14e008f508f",
@@ -142,14 +142,14 @@
   "active": "a944d62b3b93a954",
   "lastOpenFiles": [
     "Untitled.md",
-    "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
-    "2. Grammar/時間（じかん）.md",
-    "2. Grammar/日付（ひづけ）.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-14.md",
-    "ひらがな／カタカナ.md",
-    "2. Grammar/数字（すうじ）.md",
-    "2. Grammar/助詞（じょし）.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-04.md",
     "1. 授業のノート（じゅぎょう）/2022-05-12.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-11.md"
+    "1. 授業のノート（じゅぎょう）/2022-05-14.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-11.md",
+    "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
+    "ひらがな／カタカナ.md",
+    "2. Grammar/助詞（じょし）.md",
+    "0. Templates/Jisho.md",
+    "0. Dictionary/かめ.md"
   ]
 }
