@@ -1,12 +1,12 @@
 ![[Pasted image 20220517215255.png]]
 
-ときどき行くCDショップに<ruby>気<rt>に</rt></ruby>になっている人がいる
+ときどき<ruby>行<rt>い</rt></ruby>くCDショップに<ruby>気<rt>き</rt></ruby>になっている<ruby>人<rt>ひと</rt></ruby>がいる
 
 カウンター<ruby>越<rt>ご</rt></ruby>しにつまんなそうにしている
 
 <ruby>黒<rt>くろ</rt></ruby>ずくめのおにーさんだ
 
-今日もかっこいい…
+<ruby>今日<rt>きょう</rt></ruby>もかっこいい…
 
 ![[Pasted image 20220517215320.png]]
 
