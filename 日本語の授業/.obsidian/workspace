@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "マンガ.md",
-            "mode": "source",
+            "file": "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "マンガ.md",
+                "file": "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "マンガ.md",
+                "file": "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,15 +141,15 @@
   },
   "active": "a944d62b3b93a954",
   "lastOpenFiles": [
-    "マンガ.md",
-    "ひらがな／カタカナ.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-04.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-12.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-14.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-11.md",
     "3. 宿題（しゅくだい）/文法　－　修飾語１.md",
-    "2. Grammar/助詞（じょし）.md",
-    "0. Templates/Jisho.md",
-    "0. Dictionary/かめ.md"
+    "0. Assets/grammar-ps20170322b-01.pdf",
+    "ひらがな／カタカナ.md",
+    "2. Grammar/日付（ひづけ）.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-19.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-14.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-12.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-11.md",
+    "1. 授業のノート（じゅぎょう）/2022-05-11 (ひとり).md",
+    "マンガ.md"
   ]
 }
