@@ -7,11 +7,9 @@
         "id": "a944d62b3b93a954",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "ひらがな／カタカナ.md",
-            "mode": "preview",
-            "source": false
+            "file": "MInna no Nihongo novo.pdf"
           }
         }
       }
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ひらがな／カタカナ.md",
+                "file": "MInna no Nihongo novo.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ひらがな／カタカナ.md",
+                "file": "MInna no Nihongo novo.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +139,9 @@
   },
   "active": "a944d62b3b93a954",
   "lastOpenFiles": [
+    "MInna no Nihongo novo.pdf",
     "ひらがな／カタカナ.md",
     "2022-05-26.md",
-    "MInna no Nihongo novo.pdf",
     "0. Assets/hiragana.png",
     "0. Assets/grammar-ps20170322b-01.pdf",
     "2. Grammar/時間（じかん）.md",
