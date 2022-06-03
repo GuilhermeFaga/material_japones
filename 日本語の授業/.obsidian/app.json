@@ -7,7 +7,7 @@
   "rightToLeft": false,
   "promptDelete": false,
   "pdfExportSettings": {
-    "pageSize": "A3",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
