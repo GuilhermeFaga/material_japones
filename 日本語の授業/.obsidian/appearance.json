@@ -5,7 +5,8 @@
   "textFontFamily": "Noto Sans JP,Yu Gothic",
   "translucency": false,
   "enabledCssSnippets": [
-    "line_height"
+    "line_height",
+    "text_color"
   ],
   "interfaceFontFamily": "Noto Sans JP,Yu Gothic"
 }
