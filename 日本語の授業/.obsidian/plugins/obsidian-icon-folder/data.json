@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarCopy",
-      "FarPenToSquare",
-      "FarFileLines",
+      "FabAlipay",
+      "FarCalendarDays",
       "FarImage",
-      "FarCalendarDays"
+      "FarFileLines",
+      "FarPenToSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "0. Templates": {
     "iconName": "FarCopy",
     "inheritanceIcon": "FarCopy"
-  }
+  },
+  "4. JLPT": "FabAlipay"
 }
