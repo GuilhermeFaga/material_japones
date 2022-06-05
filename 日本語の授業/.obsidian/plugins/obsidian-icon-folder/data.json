@@ -20,10 +20,7 @@
       "left": 2
     }
   },
-  "1. 授業のノート（じゅぎょう）": {
-    "iconName": "FarCalendarDays",
-    "inheritanceIcon": "RiBallPenFill"
-  },
+  "1. 授業のノート（じゅぎょう）": "FarCalendarDays",
   "0. Assets": "FarImage",
   "ひらがな／カタカナ.md": "FarPenToSquare",
   "2. Grammar": "FarFolderOpen",
