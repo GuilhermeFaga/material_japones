@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. 宿題（しゅくだい）/Untitled.md",
-            "mode": "preview",
+            "file": "3. 宿題（しゅくだい）/Untitled 1.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 宿題（しゅくだい）/Untitled.md",
+                "file": "3. 宿題（しゅくだい）/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 宿題（しゅくだい）/Untitled.md",
+                "file": "3. 宿題（しゅくだい）/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +141,7 @@
   },
   "active": "a944d62b3b93a954",
   "lastOpenFiles": [
+    "3. 宿題（しゅくだい）/Untitled 1.md",
     "3. 宿題（しゅくだい）/Untitled.md",
     "ひらがな／カタカナ.md",
     "Untitled.md",
@@ -149,7 +150,6 @@
     "3. 宿題（しゅくだい）/五月十九日.md",
     "4. JLPT/N5.md",
     "2. Grammar/数字（すうじ）.md",
-    "1. 授業のノート（じゅぎょう）/2022-05-26.md",
-    "Minna no Nihongo novo.pdf"
+    "1. 授業のノート（じゅぎょう）/2022-05-26.md"
   ]
 }
